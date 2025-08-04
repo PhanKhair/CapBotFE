@@ -10,7 +10,7 @@ function SemesterPage() {
 
   return (
     <div className="space-y-2">
-      <div className="min-h-[600px] rounded-2xl border px-4 py-4">
+      <div className="min-h-[600px] rounded-2xl border px-4 py-4 space-y-4">
       <h2 className="text-xl font-bold">Danh sách học kì</h2>
 
       <div className="grid grid-cols-3 gap-6">

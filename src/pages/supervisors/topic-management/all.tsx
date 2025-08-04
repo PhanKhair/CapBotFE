@@ -10,7 +10,7 @@ import TopicDetailDialog from "./TopicDetailDialog";
 import { createMyTopicColumns } from "./columnsMyTopics";
 
 const DEFAULT_VISIBILITY = {
-  id: true,
+  id: false,
   title: true,
   supervisorName: true,
   categoryName: true,
